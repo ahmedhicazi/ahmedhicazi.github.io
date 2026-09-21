@@ -278,6 +278,12 @@ section {
 
 .typing-text {
 
+    display: inline-block;
+
+    min-width: 18ch;
+
+    white-space: nowrap;
+
     color: var(--accent);
 
 }
